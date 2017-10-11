@@ -1,1 +1,2 @@
-TimeStamp Microservice Project is the first API FCC Challenge
+TimeStamp Microservice Project.
+First API FCC Challenge
