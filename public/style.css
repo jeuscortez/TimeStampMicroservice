@@ -1,0 +1,26 @@
+body{
+  background-color: lightbrown;
+}
+footer{
+  margin-top:50px;
+}
+header h1{
+  text-align: center;
+}
+#userstories{
+  font-weight:bold;
+  font-size:20px;
+}
+blockquote{
+  background-color:lightpink;
+  margin-bottom:5px;
+}
+#sampleUse{
+   margin-left:50px; 
+}
+footer{
+  text-align:center;
+}
+  a{
+    color:green;
+  }
